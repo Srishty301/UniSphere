@@ -75,15 +75,14 @@ Password: password123
 Admin
 Email: admin@unisphere.edu
 Password: password123
+<img width="1919" height="862" alt="Screenshot 2025-07-27 153324" src="https://github.com/user-attachments/assets/4539c192-9f5e-43fb-8d91-59b88d83c905" />
 
-<img width="1900" height="858" alt="Screenshot 2025-07-27 153226" src="https://github.com/user-attachments/assets/8ad0989d-78a1-44dc-93d3-f5b7528e7fe5" />
+<img width="1919" height="863" alt="Screenshot 2025-07-27 153259" src="https://github.com/user-attachments/assets/eecf5c5d-73cf-46e9-9db3-3a65d4614650" />
 
-<img width="1919" height="863" alt="Screenshot 2025-07-27 153259" src="https://github.com/user-attachments/assets/fa5f1503-05d9-4089-a454-f2b4698dfccd" />
+<img width="1900" height="858" alt="Screenshot 2025-07-27 153226" src="https://github.com/user-attachments/assets/e994f070-d27e-417c-a79e-0a07a1dc454e" />
 
-<img width="1919" height="862" alt="Screenshot 2025-07-27 153324" src="https://github.com/user-attachments/assets/4ea6b497-bf71-44c9-9ef0-c986cf4a5c7f" />
+<img width="1919" height="864" alt="Screenshot 2025-07-27 153739" src="https://github.com/user-attachments/assets/9631d6a4-b142-405b-a7d9-2f1de69a8051" />
 
-<img width="1919" height="861" alt="Screenshot 2025-07-27 153710" src="https://github.com/user-attachments/assets/417f5e0f-53dc-4330-9dba-212ea6c1f3e0" />
+<img width="1919" height="861" alt="Screenshot 2025-07-27 153710" src="https://github.com/user-attachments/assets/da4274cf-947d-4e76-bb6e-335abefda82a" />
 
-<img width="1919" height="864" alt="Screenshot 2025-07-27 153739" src="https://github.com/user-attachments/assets/3e14a55e-e975-413b-a764-6a9b093ce7a3" />
-
-<img width="1919" height="866" alt="Screenshot 2025-07-27 153751" src="https://github.com/user-attachments/assets/3587e7a1-be3d-4c53-b2c5-86a238e6fac3" />
+<img width="1919" height="866" alt="Screenshot 2025-07-27 153751" src="https://github.com/user-attachments/assets/f2635ec0-c805-47a2-9211-57a7512a3065" />
